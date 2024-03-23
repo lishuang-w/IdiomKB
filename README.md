@@ -2,7 +2,7 @@
 
 ![idiomkb_Example](figure/front.jpg)
 
-Resources for our AAAI 2024 paper: *Translate Meanings, Not Just Words: IdiomKB's Role in Optimizing Idiomatic Translation with Language Models*
+Resources for our AAAI 2024 paper: [*Translate Meanings, Not Just Words: IdiomKB's Role in Optimizing Idiomatic Translation with Language Models*](https://arxiv.org/abs/2308.13961)
 
 ## Dataset Format
 
