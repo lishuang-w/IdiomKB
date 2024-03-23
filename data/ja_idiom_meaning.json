@@ -1,0 +1,1892 @@
+[
+    {
+        "id": 1,
+        "idiom": "焼け石に水",
+        "en_meaning": "A drop in the bucket. It refers to a small or inefficient effort in comparison to the magnitude of the problem or task at hand.",
+        "zh_meaning": "杯水车薪",
+        "ja_meaning": "一時的な手助けや解決策が無駄である。無駄な行為・手続きをする。"
+    },
+    {
+        "id": 2,
+        "idiom": "坊主憎けりゃ袈裟まで憎い",
+        "en_meaning": "If you hate the priest, you even hate his robe.",
+        "zh_meaning": "讨厌一定的人就全盘讨厌。",
+        "ja_meaning": "If you hate the monk, you hate even his robes."
+    },
+    {
+        "id": 3,
+        "idiom": "有無を言わさず",
+        "en_meaning": "Without question or hesitation.",
+        "zh_meaning": "无需问询，无需讨论",
+        "ja_meaning": "何も尋ねず、断ることなく受け入れる。言い訳をせず、責任を追い求める。"
+    },
+    {
+        "id": 4,
+        "idiom": "形勢逆転",
+        "en_meaning": "A reversal of fortunes.",
+        "zh_meaning": "形势逆转，扭转局面",
+        "ja_meaning": "競争や戦いにおいて、劣勢から優勢になること。相手を追い詰めること。"
+    },
+    {
+        "id": 5,
+        "idiom": "頭を痛める",
+        "en_meaning": "To worry or be troubled",
+        "zh_meaning": "为问题困扰，为事情烦恼，心烦意乱",
+        "ja_meaning": "To be worried or troubled."
+    },
+    {
+        "id": 6,
+        "idiom": "腑に落ちない",
+        "en_meaning": "It doesn't make sense. It is not convincing or understandable.",
+        "zh_meaning": "不合理，不能理解",
+        "ja_meaning": "理解できない。納得できない。"
+    },
+    {
+        "id": 7,
+        "idiom": "調子に乗る",
+        "en_meaning": "Get carried away. Get overconfident.",
+        "zh_meaning": "得意忘形，过于自大",
+        "ja_meaning": "自分の力量や成功を過信し、傲慢になる。勢いに乗って浮かれる。"
+    },
+    {
+        "id": 8,
+        "idiom": "頭が切れる",
+        "en_meaning": "To be quick-witted or sharp-minded. To have a clever or intelligent mind.",
+        "zh_meaning": "聪明，机智",
+        "ja_meaning": "Eloquent and intelligent."
+    },
+    {
+        "id": 9,
+        "idiom": "足を伸ばす",
+        "en_meaning": "To stretch one's legs. To take a break or go for a walk to relax or unwind.",
+        "zh_meaning": "伸展身体，休息放松",
+        "ja_meaning": "To stretch one's legs"
+    },
+    {
+        "id": 10,
+        "idiom": "千変万化",
+        "en_meaning": "Constantly changing or unpredictable.",
+        "zh_meaning": "千变万化",
+        "ja_meaning": "変化しやすく、多岐にわたること。一つの形や状態がさまざまなものに変わること。"
+    },
+    {
+        "id": 11,
+        "idiom": "首をひねる",
+        "en_meaning": "To be puzzled or perplexed",
+        "zh_meaning": "犹豫不决，无法理解，感到困惑",
+        "ja_meaning": "To be puzzled, uncertain, or doubtful about something."
+    },
+    {
+        "id": 12,
+        "idiom": "熱を上げる",
+        "en_meaning": "To get worked up. To become passionate or enthusiastic about something.",
+        "zh_meaning": "情绪高涨，兴奋，变得热衷于某事",
+        "ja_meaning": "興奮する。怒りや感情を高める。"
+    },
+    {
+        "id": 13,
+        "idiom": "言うまでも無い",
+        "en_meaning": "It goes without saying",
+        "zh_meaning": "不言而喻，显而易见",
+        "ja_meaning": "It goes without saying."
+    },
+    {
+        "id": 14,
+        "idiom": "足元を見る",
+        "en_meaning": "To be cautious, mindful of one's surroundings.",
+        "zh_meaning": "留意周围环境，小心对待，保持谨慎态度",
+        "ja_meaning": "注意深く行動する。周囲の状況や他者の意見を考慮する。"
+    },
+    {
+        "id": 15,
+        "idiom": "みそを付ける",
+        "en_meaning": "to make a difficult or delicate situation even more complicated or problematic",
+        "zh_meaning": "捏造事实，加上调料",
+        "ja_meaning": "追加情報を提供する。詳しい説明を加える。"
+    },
+    {
+        "id": 16,
+        "idiom": "顔を出す",
+        "en_meaning": "To make an appearance",
+        "zh_meaning": "露面，参加活动",
+        "ja_meaning": "現れる。姿を見せる。"
+    },
+    {
+        "id": 17,
+        "idiom": "失敗は成功の元",
+        "en_meaning": "Failure is the stepping stone to success.",
+        "zh_meaning": "失败是成功之母",
+        "ja_meaning": "失敗から学び、成功に繋げることができる。"
+    },
+    {
+        "id": 18,
+        "idiom": "埒が明かない",
+        "en_meaning": "The situation is hopeless and there seems to be no end or solution.",
+        "zh_meaning": "事情一下不明了",
+        "ja_meaning": "解決が難しい。進展がない。"
+    },
+    {
+        "id": 19,
+        "idiom": "喧嘩を売る",
+        "en_meaning": "\"To pick a fight,\" or \"to provoke a disagreement.\"",
+        "zh_meaning": "挑衅，故意引起争吵",
+        "ja_meaning": "To provoke a fight or argument."
+    },
+    {
+        "id": 20,
+        "idiom": "好きこそものの上手なれ",
+        "en_meaning": "Do what you love, and you'll become good at it.",
+        "zh_meaning": "爱者为佳手",
+        "ja_meaning": "The more you like something, the better you become at it."
+    },
+    {
+        "id": 21,
+        "idiom": "牛の歩み",
+        "en_meaning": "Slow and steady progress",
+        "zh_meaning": "进展缓慢，发展缓慢",
+        "ja_meaning": "進歩が遅いこと。物事がなかなか進まないこと。"
+    },
+    {
+        "id": 22,
+        "idiom": "胸三寸",
+        "en_meaning": "Having a heavy heart or feeling deeply emotional.",
+        "zh_meaning": "内心，心中的感受和情绪。也指人的意念、情感在一个小小的地方聚集，某方面的才能优秀。",
+        "ja_meaning": "深く心に刻むこと。特に、他人の利益や感情に対する心の動きをいう。"
+    },
+    {
+        "id": 23,
+        "idiom": "バスに乗り遅れる",
+        "en_meaning": "Miss the bus. Miss an opportunity.",
+        "zh_meaning": "错过好机会",
+        "ja_meaning": "チャンスを逃す。機会を逃す。"
+    },
+    {
+        "id": 24,
+        "idiom": "首を切る",
+        "en_meaning": "Dismiss or fire someone from their position/job.",
+        "zh_meaning": "解雇，开除",
+        "ja_meaning": "解雇する。切り捨てる。"
+    },
+    {
+        "id": 25,
+        "idiom": "手に入れる",
+        "en_meaning": "To obtain, get, or acquire something.",
+        "zh_meaning": "得到，获得",
+        "ja_meaning": "得ることができる。 cons of being blind、獲得する。"
+    },
+    {
+        "id": 26,
+        "idiom": "またとない",
+        "en_meaning": "Once in a lifetime opportunity.",
+        "zh_meaning": "难得的，罕见的",
+        "ja_meaning": "貴重で他にはない。絶好の機会である。"
+    },
+    {
+        "id": 27,
+        "idiom": "死に物狂い",
+        "en_meaning": "To be desperate and willing to do anything to survive or achieve something",
+        "zh_meaning": "拼命地，不顾一切地，冒着生命危险地去做某件事",
+        "ja_meaning": "必死になって努力する様。命がけでやる様。"
+    },
+    {
+        "id": 28,
+        "idiom": "人目を避ける",
+        "en_meaning": "To avoid attracting attention. To shy away from the public eye.",
+        "zh_meaning": "躲开他人目光，避免引人注意",
+        "ja_meaning": "他人に気づかれないようにする。特に、恥ずかしいことや秘密を隠すために、他人の目を避けること。"
+    },
+    {
+        "id": 29,
+        "idiom": "手が届く",
+        "en_meaning": "Within reach or attainable",
+        "zh_meaning": "能够触及，能够达到",
+        "ja_meaning": "到達可能である。手に入る。"
+    },
+    {
+        "id": 30,
+        "idiom": "一杯食う",
+        "en_meaning": "To eat a lot",
+        "zh_meaning": "大吃大喝",
+        "ja_meaning": "大いに酒を飲むこと。または、たくさん食べること。"
+    },
+    {
+        "id": 31,
+        "idiom": "網を張る",
+        "en_meaning": "To set a trap or scheme in motion.",
+        "zh_meaning": "设陷阱，布局",
+        "ja_meaning": "厳重な監視や取り締まりを行う。"
+    },
+    {
+        "id": 32,
+        "idiom": "幕が開く",
+        "en_meaning": "The curtain goes up. Something begins or starts.",
+        "zh_meaning": "开始，展开",
+        "ja_meaning": "新しい展開や始まりが始まる。"
+    },
+    {
+        "id": 33,
+        "idiom": "あごを出す",
+        "en_meaning": "To stand out or be conspicuous. To attract attention.",
+        "zh_meaning": "炫耀，吹牛",
+        "ja_meaning": "自慢する。誇る。"
+    },
+    {
+        "id": 34,
+        "idiom": "瓜二つ",
+        "en_meaning": "Exactly alike. Identical.",
+        "zh_meaning": "非常相似，几乎一模一样",
+        "ja_meaning": "非常によく似ている。二つが全く同じようである。"
+    },
+    {
+        "id": 35,
+        "idiom": "途方に暮れる",
+        "en_meaning": "Feel lost and hopeless. Be at a loss.",
+        "zh_meaning": "陷入困境，失去方向",
+        "ja_meaning": "困難・苦境に直面し、手が打てなくなる。"
+    },
+    {
+        "id": 36,
+        "idiom": "鯖を読む",
+        "en_meaning": "To read the room. To understand the situation and act accordingly.",
+        "zh_meaning": "能够洞察他人的意图或行为，看透欺骗和虚伪",
+        "ja_meaning": "相手の気持ちや意図をうまく読み取る。相手の考えを予測して対応する。"
+    },
+    {
+        "id": 37,
+        "idiom": "手を打つ",
+        "en_meaning": "To take action or make a decision in order to solve a problem or achieve a goal",
+        "zh_meaning": "采取行动，处理事情",
+        "ja_meaning": "合意に達する。取り決める。"
+    },
+    {
+        "id": 38,
+        "idiom": "鼻を折る",
+        "en_meaning": "To crush someone's spirit or confidence.",
+        "zh_meaning": "失败，受挫",
+        "ja_meaning": "相手の調子を悪くさせる。挫く。"
+    },
+    {
+        "id": 39,
+        "idiom": "今は昔",
+        "en_meaning": "The past is different from the present. Time has changed.",
+        "zh_meaning": "过去的事情已经过去了",
+        "ja_meaning": "過去のことは現在とは異なる。物事は変わる。"
+    },
+    {
+        "id": 40,
+        "idiom": "肝試し",
+        "en_meaning": "A test of courage or bravery, often involving supernatural elements or frightening experiences.",
+        "zh_meaning": "夜晚去吓人或者测试勇敢程度的游戏",
+        "ja_meaning": "怖いものを経験することで、勇気を試すこと。"
+    },
+    {
+        "id": 41,
+        "idiom": "ためになる",
+        "en_meaning": "To be beneficial or useful. To provide knowledge or lessons that are helpful.",
+        "zh_meaning": "有益，对某人或某事有帮助",
+        "ja_meaning": "役立つこと。利益になること。"
+    },
+    {
+        "id": 42,
+        "idiom": "水を得た魚",
+        "en_meaning": "To feel refreshed and revitalized. Also, to feel like a fish in water.",
+        "zh_meaning": "如鱼得水，得到喜悦的境地",
+        "ja_meaning": "新しい環境や状況などで、すぐに適応して楽しむことができる人。"
+    },
+    {
+        "id": 43,
+        "idiom": "顔が広い",
+        "en_meaning": "well-connected, influential",
+        "zh_meaning": "交际广泛，人脉广泛",
+        "ja_meaning": "多くの人々と良好な関係を持ち、広い人脈を持っている。"
+    },
+    {
+        "id": 44,
+        "idiom": "しっぽを出す",
+        "en_meaning": "To reveal one's true nature or intentions",
+        "zh_meaning": "露出马脚，显露真面目",
+        "ja_meaning": "本性や思っていた以上の悪いところが現れる。また、秘密が明らかになる。"
+    },
+    {
+        "id": 45,
+        "idiom": "熱を入れる",
+        "en_meaning": "To put effort, enthusiasm, or passion into something.",
+        "zh_meaning": "对某事物或某人投入热情，付出努力",
+        "ja_meaning": "意欲を高める。熱心に取り組む。"
+    },
+    {
+        "id": 46,
+        "idiom": "想像を絶する",
+        "en_meaning": "Beyond imagination. Unimaginable.",
+        "zh_meaning": "超出想象，难以想象",
+        "ja_meaning": "To be beyond imagination"
+    },
+    {
+        "id": 47,
+        "idiom": "空気を読まない",
+        "en_meaning": "Not understanding the situation or context.",
+        "zh_meaning": "不懂得察言观色，不懂得顾全大局",
+        "ja_meaning": "相手の気持ちや雰囲気を察し、適切な態度や言動をすることができない。他人に対して無神経である。"
+    },
+    {
+        "id": 48,
+        "idiom": "猫を被る",
+        "en_meaning": "To act innocent or pretend to be someone else in order to deceive others",
+        "zh_meaning": "装可怜，伪装无辜",
+        "ja_meaning": "本心を隠して、仮面をかぶる。また、他人を欺くために偽りの態度を取る。"
+    },
+    {
+        "id": 49,
+        "idiom": "耳につく",
+        "en_meaning": "Something is annoying or bothersome. It keeps lingering in one's ears.",
+        "zh_meaning": "令人讨厌，令人心烦",
+        "ja_meaning": "うるさい。気に障る。"
+    },
+    {
+        "id": 50,
+        "idiom": "熱しやすく冷めやすい",
+        "en_meaning": "Easily gets excited and easily loses interest.",
+        "zh_meaning": "容易冲动，热情易凉",
+        "ja_meaning": "情熱を持って取り組むが、すぐに興味を失う。"
+    },
+    {
+        "id": 51,
+        "idiom": "口をとがらせる",
+        "en_meaning": "to make a grimace or pout",
+        "zh_meaning": "耍嘴皮子，挑衅",
+        "ja_meaning": "不機嫌な様子を示す。怒りっぽくなる。"
+    },
+    {
+        "id": 52,
+        "idiom": "力を入れる",
+        "en_meaning": "To put effort into something. To give one's all.",
+        "zh_meaning": "全力以赴，努力",
+        "ja_meaning": "真剣に取り組む。一生懸命する。"
+    },
+    {
+        "id": 53,
+        "idiom": "ああ言えばこう言う",
+        "en_meaning": "Saying one thing and then saying something completely different.",
+        "zh_meaning": "对别人说A，自己又说B。指的是人的言行矛盾，经常改变立场。",
+        "ja_meaning": "言い訳や反論をすること。また、いくら相手がどんなに言い訳をしようとも、それに対して適切な反論をすること。"
+    },
+    {
+        "id": 54,
+        "idiom": "鼻を突く",
+        "en_meaning": "To be offensive or objectionable",
+        "zh_meaning": "让人讨厌或不舒服，引起反感",
+        "ja_meaning": "嫌悪感を抱く。不快な感じを受ける。"
+    },
+    {
+        "id": 55,
+        "idiom": "腹を割る",
+        "en_meaning": "To speak honestly and openly, to share one's true thoughts and feelings.",
+        "zh_meaning": "坦诚相待，毫无保留",
+        "ja_meaning": "本音を打ち明ける。隠し事をしないで話す。"
+    },
+    {
+        "id": 56,
+        "idiom": "根も葉もない",
+        "en_meaning": "without foundation or evidence, baseless",
+        "zh_meaning": "没有任何根据或证据，只是空穴来风",
+        "ja_meaning": "根拠や根っこのない言葉や噂。事実でないことを言われること。"
+    },
+    {
+        "id": 57,
+        "idiom": "水を差す",
+        "en_meaning": "To pour cold water on; to dampen the mood or enthusiasm",
+        "zh_meaning": "泼冷水，打击士气",
+        "ja_meaning": "他人の楽しみを邪魔する。また、他人をやる気をなくさせる。"
+    },
+    {
+        "id": 58,
+        "idiom": "猫舌",
+        "en_meaning": "Sensitivity to hot food or drinks.",
+        "zh_meaning": "不耐热，不善于食用热食物",
+        "ja_meaning": "食べ物が熱いうちに、やけどをすること。また、熱い物を食べたり飲んだりできない性質の人のことを言う。"
+    },
+    {
+        "id": 59,
+        "idiom": "帰らぬ人",
+        "en_meaning": "\"Someone who will never return\" or \"someone who has died\"",
+        "zh_meaning": "永远离去，不再回来",
+        "ja_meaning": "戻ってこない人。永遠に帰省しない人。"
+    },
+    {
+        "id": 60,
+        "idiom": "火が消えたよう",
+        "en_meaning": "Expressionless or lifeless",
+        "zh_meaning": "失去活力，变得无精打采",
+        "ja_meaning": "活気がなくなり、活動が停滞している様子。"
+    },
+    {
+        "id": 61,
+        "idiom": "尾を引く",
+        "en_meaning": "Have lingering effects or consequences.",
+        "zh_meaning": "留下后遗症或不好的影响，难以消除",
+        "ja_meaning": "過去の出来事や感情が長引く。後味が悪く、嫌な思いが残る。"
+    },
+    {
+        "id": 62,
+        "idiom": "油を売る",
+        "en_meaning": "to talk someone into buying something unnecessary or to deceive someone",
+        "zh_meaning": "言而无信，搞诡计",
+        "ja_meaning": "無駄話をする。答えを避ける。"
+    },
+    {
+        "id": 63,
+        "idiom": "鼻を鳴らす",
+        "en_meaning": "To sniff in disdain. To scorn or mock someone/something.",
+        "zh_meaning": "轻笑，嗤笑，不屑一顾",
+        "ja_meaning": "傲慢である。他人を見下す態度を取る。"
+    },
+    {
+        "id": 64,
+        "idiom": "腹が立つ",
+        "en_meaning": "To become angry.",
+        "zh_meaning": "生气，恼火",
+        "ja_meaning": "怒りを感じる。腹を立てる。"
+    },
+    {
+        "id": 65,
+        "idiom": "胸が詰まる",
+        "en_meaning": "Feel choked up or overwhelmed with emotions.",
+        "zh_meaning": "心中憋闷，感到压抑",
+        "ja_meaning": "心に重い感じがする。特に、苦しい気持ちや悲しい気持ちが押し寄せる。"
+    },
+    {
+        "id": 66,
+        "idiom": "筆を加える",
+        "en_meaning": "To add the finishing touches or final details to something, usually a written work or artwork.",
+        "zh_meaning": "增添一笔，提高价值",
+        "ja_meaning": "追加する。修正する。"
+    },
+    {
+        "id": 67,
+        "idiom": "手を切る",
+        "en_meaning": "To cut ties with someone. To end a relationship or association.",
+        "zh_meaning": "放弃，结束",
+        "ja_meaning": "関係を絶つ。連絡を断つ。"
+    },
+    {
+        "id": 68,
+        "idiom": "不幸中の幸い",
+        "en_meaning": "A blessing in disguise",
+        "zh_meaning": "不幸中的幸福，幸灾乐祸",
+        "ja_meaning": "不幸な状況の中で、幸運なことがある。"
+    },
+    {
+        "id": 69,
+        "idiom": "泥を塗る",
+        "en_meaning": "To bring disgrace or dishonor to oneself or someone else.",
+        "zh_meaning": "给自己丢脸，犯错误，败坏形象",
+        "ja_meaning": "評判や信用を損ねる。恥をかく。"
+    },
+    {
+        "id": 70,
+        "idiom": "漁夫の利",
+        "en_meaning": "The advantage or benefit gained by a third party from the conflict or competition between two other parties.",
+        "zh_meaning": "渔翁之利",
+        "ja_meaning": "他人の争いや災難から利益を得ること。他人の不幸を利用すること。"
+    },
+    {
+        "id": 71,
+        "idiom": "阿吽の呼吸",
+        "en_meaning": "Perfect coordination. Acting as one.",
+        "zh_meaning": "默契地配合，互相呼应",
+        "ja_meaning": "完全な共鳴や一体感を持つこと。完璧な連携をすること。"
+    },
+    {
+        "id": 72,
+        "idiom": "ごまをする",
+        "en_meaning": "To flatter or curry favor with someone in order to gain their support or approval",
+        "zh_meaning": "奉承，讨好",
+        "ja_meaning": "上司や目上の人に取り入る。こびを売る。"
+    },
+    {
+        "id": 73,
+        "idiom": "目を覆う",
+        "en_meaning": "To cover one's eyes. To be stunned or shocked.",
+        "zh_meaning": "非常震惊，惊恐到无法看下去",
+        "ja_meaning": "驚愕や嫌悪のあまり、目を背けたくなる。"
+    },
+    {
+        "id": 74,
+        "idiom": "天変地異",
+        "en_meaning": "A catastrophic event or a major change in the natural order of things, often referring to natural disasters or large-scale disruptions.",
+        "zh_meaning": "天灾地变",
+        "ja_meaning": "大きな自然災害や異変が起こること。"
+    },
+    {
+        "id": 75,
+        "idiom": "耳を澄ます",
+        "en_meaning": "To listen carefully or attentively",
+        "zh_meaning": "聆听，倾听",
+        "ja_meaning": "注意深く聞く。よく聞き耳をたてる。"
+    },
+    {
+        "id": 76,
+        "idiom": "気にする",
+        "en_meaning": "to worry or be concerned about something",
+        "zh_meaning": "在意，介意，在乎",
+        "ja_meaning": "心配したり、気にかけたりする。小さなことでも気を使う。"
+    },
+    {
+        "id": 77,
+        "idiom": "蚊帳の外",
+        "en_meaning": "To be left out or excluded from a group or conversation.",
+        "zh_meaning": "被排除在外，被忽视",
+        "ja_meaning": "他人の関心や恩恵から外れること。取り残されること。"
+    },
+    {
+        "id": 78,
+        "idiom": "手を延ばす",
+        "en_meaning": "Reach out (for something). Extend a helping hand.",
+        "zh_meaning": "伸出援助之手，帮助他人",
+        "ja_meaning": "援助を求める。支援を受けようとする。"
+    },
+    {
+        "id": 79,
+        "idiom": "足を洗う",
+        "en_meaning": "To start a new and clean life. To leave behind a previous occupation or lifestyle.",
+        "zh_meaning": "洗手不干，退出某个行业，或停止某种活动",
+        "ja_meaning": "違法なことを辞めて、清く正しく生きる。"
+    },
+    {
+        "id": 80,
+        "idiom": "動きが取れない",
+        "en_meaning": "Unable to make progress or take action.",
+        "zh_meaning": "无法动弹，陷于僵局",
+        "ja_meaning": "進展がなく、物事が停滞する。"
+    },
+    {
+        "id": 81,
+        "idiom": "波に乗る",
+        "en_meaning": "To ride the wave. It means to take advantage of a situation or trend and benefit from it.",
+        "zh_meaning": "趁热打铁，抓住机会",
+        "ja_meaning": "時流に乗って成功する。また、好況に浮かれる。"
+    },
+    {
+        "id": 82,
+        "idiom": "手を入れる",
+        "en_meaning": "to make improvements or modifications",
+        "zh_meaning": "进行维修或改造",
+        "ja_meaning": "改良する。修正する。"
+    },
+    {
+        "id": 83,
+        "idiom": "耳に入る",
+        "en_meaning": "To hear (something) (as in receiving information or news).",
+        "zh_meaning": "听到，听说",
+        "ja_meaning": "知識や情報が聞こえてくる。また、忠告や助言などを受け入れる。"
+    },
+    {
+        "id": 84,
+        "idiom": "泡を食う",
+        "en_meaning": "To end up in failure or disappointment. To have one's hopes or expectations dashed.",
+        "zh_meaning": "吃苦头，遭受损失",
+        "ja_meaning": "大きな失敗をする。努力や期待が水泡に帰す。"
+    },
+    {
+        "id": 85,
+        "idiom": "背を向ける",
+        "en_meaning": "To turn one's back on someone or something. To ignore or reject someone or something.",
+        "zh_meaning": "不理睬，不关心",
+        "ja_meaning": "関わりを絶つ。協力しない。"
+    },
+    {
+        "id": 86,
+        "idiom": "目がない",
+        "en_meaning": "To have a strong liking or preference for something.",
+        "zh_meaning": "非常喜欢，着迷于某物或某人",
+        "ja_meaning": "とても好きで熱中する。相手に夢中になる。"
+    },
+    {
+        "id": 87,
+        "idiom": "バトンを渡す",
+        "en_meaning": "transferring responsibility or authority from one person to another.",
+        "zh_meaning": "传递接力棒",
+        "ja_meaning": "役割や責任を引き継ぐ。"
+    },
+    {
+        "id": 88,
+        "idiom": "頭が悪い",
+        "en_meaning": "Someone is not very intelligent or has a low IQ.",
+        "zh_meaning": "笨，愚蠢",
+        "ja_meaning": "Lacking intelligence or being foolish."
+    },
+    {
+        "id": 89,
+        "idiom": "虫がいい",
+        "en_meaning": "Be lucky, get away with something",
+        "zh_meaning": "贪心，自私",
+        "ja_meaning": "無責任で都合の良い態度。「都合のいいことばかり言う」の意味から来ている。"
+    },
+    {
+        "id": 90,
+        "idiom": "袂を分かつ",
+        "en_meaning": "part ways or break ties",
+        "zh_meaning": "分道扬镳，不再合作",
+        "ja_meaning": "仲を切る。別れる。"
+    },
+    {
+        "id": 91,
+        "idiom": "縁起が悪い",
+        "en_meaning": "A bad omen or bad luck.",
+        "zh_meaning": "兆头不好，不吉利",
+        "ja_meaning": "不吉である。災いを招きそうである。"
+    },
+    {
+        "id": 92,
+        "idiom": "輪を掛ける",
+        "en_meaning": "To add insult to injury",
+        "zh_meaning": "雪上加霜，雪上加霜再增加",
+        "ja_meaning": "物事をさらにひどくする。誇張する。"
+    },
+    {
+        "id": 93,
+        "idiom": "折に触れて",
+        "en_meaning": "on various occasions, whenever possible",
+        "zh_meaning": "适当时候，每次机会",
+        "ja_meaning": "適宜、機会があるたびに。"
+    },
+    {
+        "id": 94,
+        "idiom": "らっぱを吹く",
+        "en_meaning": "boast or brag about oneself",
+        "zh_meaning": "夸耀，自吹自擂",
+        "ja_meaning": "自慢する。大げさに宣伝する。"
+    },
+    {
+        "id": 95,
+        "idiom": "手を握る",
+        "en_meaning": "To make a handshake agreement or form a close partnership",
+        "zh_meaning": "握手，建立密切的关系",
+        "ja_meaning": "団結する。協力する。"
+    },
+    {
+        "id": 96,
+        "idiom": "頭を抱える",
+        "en_meaning": "To feel overwhelmed or troubled by a difficult situation",
+        "zh_meaning": "困扰，感到无法解决",
+        "ja_meaning": "深刻な問題や困難に直面して、困惑したり苦しんだりする。"
+    },
+    {
+        "id": 97,
+        "idiom": "気になる",
+        "en_meaning": "To be concerned or bothered about something. To have something on one's mind.",
+        "zh_meaning": "心里有点儿不舒服，忘不掉，着急",
+        "ja_meaning": "気にかかる。心的な問題や興味を抱くこと。"
+    },
+    {
+        "id": 98,
+        "idiom": "取り返しのつかない",
+        "en_meaning": "Irreversible, cannot be undone or rectified",
+        "zh_meaning": "无法挽回，无法修复",
+        "ja_meaning": "修復や回復が不可能である。過去の行動や決断の結果が変えられない。"
+    },
+    {
+        "id": 99,
+        "idiom": "口を切る",
+        "en_meaning": "To speak up; to break the silence; to be the first to speak.",
+        "zh_meaning": "开口说话，开始谈论",
+        "ja_meaning": "はじめて物事を言う。口火を切る。"
+    },
+    {
+        "id": 100,
+        "idiom": "止むに止まれぬ",
+        "en_meaning": "Cannot be stopped. Something is so intense or unstoppable that it cannot be halted.",
+        "zh_meaning": "无法抑制，势不可挡",
+        "ja_meaning": "止めることができない。やむを得ない。"
+    },
+    {
+        "id": 101,
+        "idiom": "骨を埋める",
+        "en_meaning": "To dedicate oneself wholeheartedly to a task or mission, to give one's all.",
+        "zh_meaning": "坚持到底，永不放弃",
+        "ja_meaning": "一生懸命働いたり、労力を費やしたりして、何かを完成させる。"
+    },
+    {
+        "id": 102,
+        "idiom": "心を痛める",
+        "en_meaning": "To be deeply concerned or troubled",
+        "zh_meaning": "感到痛心，内心十分痛苦",
+        "ja_meaning": "心配して悲しむ。気がかりに思う。"
+    },
+    {
+        "id": 103,
+        "idiom": "頭角を現す",
+        "en_meaning": "To show one's true ability and talent",
+        "zh_meaning": "展现才能，崭露头角",
+        "ja_meaning": "才能や実力が開花して、すぐれた能力を示す。"
+    },
+    {
+        "id": 104,
+        "idiom": "気の遠くなる",
+        "en_meaning": "To become overwhelmed or mentally exhausted.",
+        "zh_meaning": "感到非常疲倦或厌倦，达到极限。",
+        "ja_meaning": "時間が長くて、理解や忍耐が必要である。"
+    },
+    {
+        "id": 105,
+        "idiom": "自業自得",
+        "en_meaning": "\"You reap what you sow\" or \"One's actions result in their own outcomes\"",
+        "zh_meaning": "自食其果，自找的不好结果",
+        "ja_meaning": "自分自身の行為や選択によって結果を引き起こす。自分がしたことによって自分が受ける結果。"
+    },
+    {
+        "id": 106,
+        "idiom": "身に付ける",
+        "en_meaning": "To acquire, gain knowledge or skills.",
+        "zh_meaning": "掌握、熟练掌握某种技能或知识，使之成为自己的一部分",
+        "ja_meaning": "学び取ったり、経験を積んだりして、自分のものにする。"
+    },
+    {
+        "id": 107,
+        "idiom": "青筋を立てる",
+        "en_meaning": "To get angry or frustrated",
+        "zh_meaning": "发飙，生气",
+        "ja_meaning": "激怒する。非常に怒る。"
+    },
+    {
+        "id": 108,
+        "idiom": "森羅万象",
+        "en_meaning": "All things in the universe. Refers to the vastness and diversity of the world.",
+        "zh_meaning": "万事万物",
+        "ja_meaning": "ありとあらゆるもの。全ての存在や事象。"
+    },
+    {
+        "id": 109,
+        "idiom": "寝る子は育つ",
+        "en_meaning": "A sleeping child grows.",
+        "zh_meaning": "做事情愿若是拖延，那么什么结果都会变得糟糕。而如果在事情一开始就付出努力，那么就能够取得好的成果",
+        "ja_meaning": "自然に成長や発展を遂げる。無力なものでも適切な環境におけば育つ。"
+    },
+    {
+        "id": 110,
+        "idiom": "根を下ろす",
+        "en_meaning": "To settle down, establish roots, and become grounded.",
+        "zh_meaning": "稳定下来，安定下来",
+        "ja_meaning": "安定する。落ち着く。"
+    },
+    {
+        "id": 111,
+        "idiom": "単刀直入",
+        "en_meaning": "To get straight to the point. To be straightforward and direct.",
+        "zh_meaning": "直截了当，毫不拖泥带水",
+        "ja_meaning": "直接的である。遠回しに話さないこと。"
+    },
+    {
+        "id": 112,
+        "idiom": "何も彼も",
+        "en_meaning": "Everything and everyone. Refers to a situation where everyone is involved or everything is included.",
+        "zh_meaning": "一切，什么都有",
+        "ja_meaning": "すべてのもの、すべての人。何でもないことでも使われることがある。"
+    },
+    {
+        "id": 113,
+        "idiom": "途方もない",
+        "en_meaning": "unbelievable or incomprehensible",
+        "zh_meaning": "无法想象，极其巨大",
+        "ja_meaning": "非常に大きい、非現実的な程度のこと。または、予想や考えがはるかに超えている様子。"
+    },
+    {
+        "id": 114,
+        "idiom": "鎧袖一触",
+        "en_meaning": "A single touch of the armor sleeve",
+        "zh_meaning": "互不相让。形容敌对双方对峙而不肯退让。",
+        "ja_meaning": "簡単に手を出せないほど距離がある。"
+    },
+    {
+        "id": 115,
+        "idiom": "歯が抜けたよう",
+        "en_meaning": "Feeling helpless or powerless",
+        "zh_meaning": "老态龙钟，没精打采",
+        "ja_meaning": "老いて衰えた様子や意気消沈した様子を表す。"
+    },
+    {
+        "id": 116,
+        "idiom": "幕を開ける",
+        "en_meaning": "start, begin, kick off",
+        "zh_meaning": "开始，拉开序幕",
+        "ja_meaning": "始まる。スタートする。"
+    },
+    {
+        "id": 117,
+        "idiom": "心に残る",
+        "en_meaning": "To leave a lasting impression on someone's heart. To be memorable.",
+        "zh_meaning": "留下深刻印象，令人难以忘怀",
+        "ja_meaning": "忘れられない。印象が深く残る。"
+    },
+    {
+        "id": 118,
+        "idiom": "息が詰まる",
+        "en_meaning": "to feel suffocated or overwhelmed",
+        "zh_meaning": "感到窒息，无法呼吸，无法继续进行下去",
+        "ja_meaning": "圧迫感や緊張感が強くなり、苦しくなる。また、思うように行動できずに困ること。"
+    },
+    {
+        "id": 119,
+        "idiom": "何が何でも",
+        "en_meaning": "No matter what.",
+        "zh_meaning": "不管怎样，无论如何",
+        "ja_meaning": "絶対に。どんな困難な状況でも。"
+    },
+    {
+        "id": 120,
+        "idiom": "気合を入れる",
+        "en_meaning": "To psych oneself up, to prepare oneself mentally and emotionally for a task or challenge.",
+        "zh_meaning": "鼓起干劲，全力以赴",
+        "ja_meaning": "強い決意や意気込みを持つ。力を入れる。"
+    },
+    {
+        "id": 121,
+        "idiom": "けたが違う",
+        "en_meaning": "The gap between skill or ability is significantly different or unmatched.",
+        "zh_meaning": "迥然不同，差别很大",
+        "ja_meaning": "比較して大きな差がある。水平が異なる。"
+    },
+    {
+        "id": 122,
+        "idiom": "手を付ける",
+        "en_meaning": "To start working on something",
+        "zh_meaning": "开始做，着手处理",
+        "ja_meaning": "始める。取り組む。"
+    },
+    {
+        "id": 123,
+        "idiom": "耳が痛い",
+        "en_meaning": "To hear something that is uncomfortable or unpleasant. It refers to receiving criticism or feedback that hits close to home.",
+        "zh_meaning": "听了让人心痛，难以接受。",
+        "ja_meaning": "自分の言動や態度についての非難や批判が当てはまることに対して、内心で恥じ入ったり、反省したりすること。"
+    },
+    {
+        "id": 124,
+        "idiom": "息を引き取る",
+        "en_meaning": "Take one's last breath. To die.",
+        "zh_meaning": "停止呼吸，死亡。也用来形容被吓得无法呼吸的状态。",
+        "ja_meaning": "最後の息を引いて死ぬ。"
+    },
+    {
+        "id": 125,
+        "idiom": "手を取る",
+        "en_meaning": "To cooperate with or support someone. To join forces with someone to achieve a common goal.",
+        "zh_meaning": "合作，合作",
+        "ja_meaning": "協力し合う。手を結ぶ。"
+    },
+    {
+        "id": 126,
+        "idiom": "目と鼻の間",
+        "en_meaning": "The space between the eyes and nose.",
+        "zh_meaning": "近在眼前的地方",
+        "ja_meaning": "距離が非常に近い。"
+    },
+    {
+        "id": 127,
+        "idiom": "負け惜しみ",
+        "en_meaning": "Sour grapes. To make excuses or downplay a loss or failure.",
+        "zh_meaning": "输了却不服气，向对手表示不满或焦虑的情绪",
+        "ja_meaning": "失敗した後でも、自分の負けを素直に認めず、それに言い訳をすること。また、負けた相手の実力を認めたくない気持ちを、異常に表に出してしまうこと。"
+    },
+    {
+        "id": 128,
+        "idiom": "一刻も早く",
+        "en_meaning": "As soon as possible.",
+        "zh_meaning": "尽早，立即",
+        "ja_meaning": "できるだけ早く。すみやかに。"
+    },
+    {
+        "id": 129,
+        "idiom": "穴があったら入りたい",
+        "en_meaning": "To feel extremely embarrassed and want to disappear. Wishing to escape or hide due to extreme embarrassment or shame.",
+        "zh_meaning": "非常羞愧，希望地下有个洞可以躲进去",
+        "ja_meaning": "恥ずかしい状況から逃れたいと思う。"
+    },
+    {
+        "id": 130,
+        "idiom": "頭をもたげる",
+        "en_meaning": "to become defiant or rebellious",
+        "zh_meaning": "表现出自信和傲慢的态度，抬高头",
+        "ja_meaning": "自信を持つ。意気込む。"
+    },
+    {
+        "id": 131,
+        "idiom": "目をつぶる",
+        "en_meaning": "To turn a blind eye",
+        "zh_meaning": "睁一只眼闭一只眼，放纵，宽容",
+        "ja_meaning": "欠点や問題を見逃したり、無視する。"
+    },
+    {
+        "id": 132,
+        "idiom": "目を細くする",
+        "en_meaning": "To narrow one's eyes",
+        "zh_meaning": "瞪大眼睛，警惕，留神",
+        "ja_meaning": "疑う様子を見せる。警戒心を持つ。"
+    },
+    {
+        "id": 133,
+        "idiom": "年を取る",
+        "en_meaning": "To grow old",
+        "zh_meaning": "变老，年龄增长",
+        "ja_meaning": "歳を重ねる。年をとる。"
+    },
+    {
+        "id": 134,
+        "idiom": "目が覚める",
+        "en_meaning": "To wake up to the truth or to have a realization.",
+        "zh_meaning": "明白过来，忽然明白事理",
+        "ja_meaning": "理解する。認識する。"
+    },
+    {
+        "id": 135,
+        "idiom": "骨を折る",
+        "en_meaning": "To put in a lot of effort and work hard",
+        "zh_meaning": "辛勤劳动，费尽心思",
+        "ja_meaning": "困難な仕事をする。"
+    },
+    {
+        "id": 136,
+        "idiom": "実を結ぶ",
+        "en_meaning": "Bear fruit. Achieve tangible results or success.",
+        "zh_meaning": "取得成果。特指实现计划或获得成功。",
+        "ja_meaning": "成功する。成果を得る。"
+    },
+    {
+        "id": 137,
+        "idiom": "ぞろ目",
+        "en_meaning": "Having the same consecutive numbers.",
+        "zh_meaning": "一模一样，全是一样的数目",
+        "ja_meaning": "数字の末尾が同じであること。また、降って続ける状態のことを言うこともある。"
+    },
+    {
+        "id": 138,
+        "idiom": "日を追う",
+        "en_meaning": "Pursue or chase after something. To follow the progress of something day by day.",
+        "zh_meaning": "紧跟时代的变化，保持进展的节奏",
+        "ja_meaning": "時間が進む。日が経つ。"
+    },
+    {
+        "id": 139,
+        "idiom": "型にはまる",
+        "en_meaning": "To fit into a mold or conform to expectations.",
+        "zh_meaning": "墨守成规，束缚自己",
+        "ja_meaning": "固定的なやり方や考え方に縛られる。柔軟性がない。"
+    },
+    {
+        "id": 140,
+        "idiom": "多かれ少なかれ",
+        "en_meaning": "\"To some extent\" or \"more or less\"",
+        "zh_meaning": "多多少少，或多或少",
+        "ja_meaning": "大体において。おおむね。"
+    },
+    {
+        "id": 141,
+        "idiom": "とかく",
+        "en_meaning": "In general; typically; often; frequently",
+        "zh_meaning": "常常，经常",
+        "ja_meaning": "様々な方向や方法で、一般的にそうなる傾向がある。"
+    },
+    {
+        "id": 142,
+        "idiom": "悲鳴を上げる",
+        "en_meaning": "Scream or shout in anguish, fear, or pain.",
+        "zh_meaning": "发出惊叫，尖叫",
+        "ja_meaning": "非常に声を張り上げて、悲しみや苦痛を表現する。"
+    },
+    {
+        "id": 143,
+        "idiom": "しっぽをつかむ",
+        "en_meaning": "To grasp the tail",
+        "zh_meaning": "抓住关键，抓到要领",
+        "ja_meaning": "重要な手がかりをつかむ。"
+    },
+    {
+        "id": 144,
+        "idiom": "足が出る",
+        "en_meaning": "to not balance the budget, to be in debt",
+        "zh_meaning": "亏本，不得偿失",
+        "ja_meaning": "ビジネスや計画がうまくいかず、結果が思わしくない状況になる。損をする。"
+    },
+    {
+        "id": 145,
+        "idiom": "気に入る",
+        "en_meaning": "To be pleased with, to be satisfied with.",
+        "zh_meaning": "喜欢，中意",
+        "ja_meaning": "好きになる。気にかける。"
+    },
+    {
+        "id": 146,
+        "idiom": "目を付ける",
+        "en_meaning": "To keep an eye on, to target",
+        "zh_meaning": "盯上，注意到",
+        "ja_meaning": "注目する。興味を持つ。"
+    },
+    {
+        "id": 147,
+        "idiom": "なにがなんでも",
+        "en_meaning": "No matter what. By any means necessary.",
+        "zh_meaning": "不管怎样，无论如何",
+        "ja_meaning": "絶対に、どんな困難や障害があっても、絶対に達成する。"
+    },
+    {
+        "id": 148,
+        "idiom": "草の根",
+        "en_meaning": "The grassroots",
+        "zh_meaning": "基层。指社会中最低层的人或群体。",
+        "ja_meaning": "地位や権力が弱く、力の及ばないところ。"
+    },
+    {
+        "id": 149,
+        "idiom": "運が開ける",
+        "en_meaning": "Luck is turning. Fortune is improving.",
+        "zh_meaning": "好运降临，转运",
+        "ja_meaning": "好機が訪れて、運勢が上向く。幸運な状況になる。"
+    },
+    {
+        "id": 150,
+        "idiom": "手を回す",
+        "en_meaning": "make extra efforts, go out of one's way",
+        "zh_meaning": "周转，协调安排",
+        "ja_meaning": "人を使って、物事を達成させる。"
+    },
+    {
+        "id": 151,
+        "idiom": "人を食う",
+        "en_meaning": "To be highly ambitious and competitive. To have the desire to surpass others and achieve success.",
+        "zh_meaning": "欺压他人，霸占他人",
+        "ja_meaning": "非情な態度や行動を取る。人を容赦なく攻撃する。"
+    },
+    {
+        "id": 152,
+        "idiom": "手を合わせる",
+        "en_meaning": "To pray. To join one's hands in prayer.",
+        "zh_meaning": "合掌祈祷、祈求幸运、保佑",
+        "ja_meaning": "お願い事をする。祈る。"
+    },
+    {
+        "id": 153,
+        "idiom": "朝飯前",
+        "en_meaning": "Something is very easy. It's a piece of cake.",
+        "zh_meaning": "轻而易举，小事一桩",
+        "ja_meaning": "とても簡単なこと。たやすくできる。"
+    },
+    {
+        "id": 154,
+        "idiom": "途轍もない",
+        "en_meaning": "extremely, overwhelmingly",
+        "zh_meaning": "非常，极其",
+        "ja_meaning": "非常に大きい・すごい・すさまじい。"
+    },
+    {
+        "id": 155,
+        "idiom": "手に乗る",
+        "en_meaning": "To fall for something; to be deceived",
+        "zh_meaning": "容易被掌握，易于控制",
+        "ja_meaning": "人に影響を受けやすくなる。また、意にそぐわないことを容易に受け入れる。"
+    },
+    {
+        "id": 156,
+        "idiom": "船をこぐ",
+        "en_meaning": "Work hard, put in effort, or make strong efforts toward a goal.",
+        "zh_meaning": "做好准备，为了达成目标而全力以赴",
+        "ja_meaning": "積極的に働く。努力する。"
+    },
+    {
+        "id": 157,
+        "idiom": "鼻が高い",
+        "en_meaning": "To be proud and haughty.",
+        "zh_meaning": "自满，过于自豪自大",
+        "ja_meaning": "見下す気持ちがある。傲慢で高慢な態度を持っている。"
+    },
+    {
+        "id": 158,
+        "idiom": "骨が折れる",
+        "en_meaning": "It's a tough task that requires a lot of effort and hard work.",
+        "zh_meaning": "非常辛苦，努力艰难",
+        "ja_meaning": "困難や苦労の多い作業や課題に取り組むこと。"
+    },
+    {
+        "id": 159,
+        "idiom": "鼻に付く",
+        "en_meaning": "Something is bothersome or irritating.",
+        "zh_meaning": "让人讨厌，不顺眼",
+        "ja_meaning": "非常に不快である。非常にいやだ。"
+    },
+    {
+        "id": 160,
+        "idiom": "一から十まで",
+        "en_meaning": "Every detail. From A to Z.",
+        "zh_meaning": "从头到尾，全面地",
+        "ja_meaning": "全ての要素や詳細を網羅する。全体を含んだ完全な範囲を意味する。"
+    },
+    {
+        "id": 161,
+        "idiom": "弓を引く",
+        "en_meaning": "To take action or make a move.",
+        "zh_meaning": "展开行动，采取措施",
+        "ja_meaning": "計画や行動を開始する。また、準備を整える。"
+    },
+    {
+        "id": 162,
+        "idiom": "目に入る",
+        "en_meaning": "To catch someone's attention. Also, to come across or encounter something.",
+        "zh_meaning": "引起注意，对某事某人产生兴趣或关注",
+        "ja_meaning": "注意を引く。目立つ。"
+    },
+    {
+        "id": 163,
+        "idiom": "頭が下がる",
+        "en_meaning": "To show respect and admiration.",
+        "zh_meaning": "表示尊敬，对某人极为敬佩",
+        "ja_meaning": "敬意を表する。尊敬する。"
+    },
+    {
+        "id": 164,
+        "idiom": "頭が痛い",
+        "en_meaning": "I have a headache. It is troublesome and causing stress.",
+        "zh_meaning": "头痛。形容麻烦或困扰的事情。",
+        "ja_meaning": "困ったこと、難しい問題が起きて、対応に困ること。"
+    },
+    {
+        "id": 165,
+        "idiom": "前代未聞",
+        "en_meaning": "Unprecedented, unheard of.",
+        "zh_meaning": "前所未有，史无前例",
+        "ja_meaning": "まれにみるほど珍しい事。未だかつて聞いた事が無いくらい珍しい事。"
+    },
+    {
+        "id": 166,
+        "idiom": "笑う門には福来る",
+        "en_meaning": "Good fortune comes to those who have a positive attitude.",
+        "zh_meaning": "笑口常开的家门会迎来幸福",
+        "ja_meaning": "明るい人にはいいことが起こる。"
+    },
+    {
+        "id": 167,
+        "idiom": "図に当たる",
+        "en_meaning": "To hit the mark. To succeed in achieving a goal or prediction.",
+        "zh_meaning": "计划不按预期执行，遇到意外情况",
+        "ja_meaning": "計画通りに進む。成功する。"
+    },
+    {
+        "id": 168,
+        "idiom": "気が気ではない",
+        "en_meaning": "Unable to feel at ease or restless.",
+        "zh_meaning": "心烦意乱，不安",
+        "ja_meaning": "心配で落ち着かない。不安である。"
+    },
+    {
+        "id": 169,
+        "idiom": "何もかも",
+        "en_meaning": "Everything. Used to express all-encompassing, without exception, or no exceptions.",
+        "zh_meaning": "一切，所有的事情",
+        "ja_meaning": "全てのこと。何でも。"
+    },
+    {
+        "id": 170,
+        "idiom": "駄々をこねる",
+        "en_meaning": "To throw a tantrum. To act in a stubborn or obstinate manner.",
+        "zh_meaning": "使性子，任性，闹脾气",
+        "ja_meaning": "無駄な反抗をする。わがままを言う。"
+    },
+    {
+        "id": 171,
+        "idiom": "度肝を抜く",
+        "en_meaning": "To shock or surprise someone greatly.",
+        "zh_meaning": "大吃一惊，惊呆了",
+        "ja_meaning": "驚かせる。非常に驚く。"
+    },
+    {
+        "id": 172,
+        "idiom": "足を引っ張る",
+        "en_meaning": "To hinder or hold someone back from progressing or achieving their goals.",
+        "zh_meaning": "拖后腿，给人添麻烦",
+        "ja_meaning": "他人の邪魔をして、妨げる。"
+    },
+    {
+        "id": 173,
+        "idiom": "根を張る",
+        "en_meaning": "To take root; to establish oneself firmly",
+        "zh_meaning": "扎根，生根。也指坚定立场，不动摇",
+        "ja_meaning": "固くしっかりと立っている。基盤を作り、長く続ける。"
+    },
+    {
+        "id": 174,
+        "idiom": "鼻息が荒い",
+        "en_meaning": "To be visibly excited or agitated. To be eager or impatient.",
+        "zh_meaning": "气喘吁吁，急促喘息",
+        "ja_meaning": "興奮や怒りなどで舐めたり荒い呼吸をする。また、情熱や意欲が高まっている様子を表す。"
+    },
+    {
+        "id": 175,
+        "idiom": "水に流す",
+        "en_meaning": "To let go, forget, or forgive. Good or bad experiences are put in the past and not dwelled upon.",
+        "zh_meaning": "置之不理，不再计较",
+        "ja_meaning": "過去のことや不快な出来事などを忘れて、許してしまう。"
+    },
+    {
+        "id": 176,
+        "idiom": "水と油",
+        "en_meaning": "Water and oil.",
+        "zh_meaning": "水和油，不相容",
+        "ja_meaning": "相容れない者同士。互いに合わない。"
+    },
+    {
+        "id": 177,
+        "idiom": "耳目",
+        "en_meaning": "Attention or notice. Being the center of attention or being closely watched.",
+        "zh_meaning": "消息，情报",
+        "ja_meaning": "注目や関心の対象となること。また、注目の的となる人や物。"
+    },
+    {
+        "id": 178,
+        "idiom": "引き金を引く",
+        "en_meaning": "To trigger or set off something. To be the catalyst for a certain action or event.",
+        "zh_meaning": "引爆，触发（不好的事情或行动）",
+        "ja_meaning": "重大な事件や出来事を引き起こす。"
+    },
+    {
+        "id": 179,
+        "idiom": "刎頸の交わり",
+        "en_meaning": "Unbreakable bond. A deep and unshakable friendship.",
+        "zh_meaning": "刎颈之交，形容坚定的友情",
+        "ja_meaning": "生死の危険を共にすること。生命を預け合うこと。"
+    },
+    {
+        "id": 180,
+        "idiom": "猫の手も借りたい",
+        "en_meaning": "willing to accept any help one can get; overwhelmed with work",
+        "zh_meaning": "非常忙碌，需要帮助",
+        "ja_meaning": "手伝ってほしいほど忙しい。助けが欲しいほど途方に暮れている。"
+    },
+    {
+        "id": 181,
+        "idiom": "まさかの時",
+        "en_meaning": "Unexpectedly, when you least expect it.",
+        "zh_meaning": "意想不到的时刻，出乎意料的时候",
+        "ja_meaning": "思いもよらない時。予期しない時。"
+    },
+    {
+        "id": 182,
+        "idiom": "顔に泥を塗る",
+        "en_meaning": "To bring shame or disgrace upon oneself.",
+        "zh_meaning": "丢脸，受辱",
+        "ja_meaning": "失態を犯し、名誉や評判を傷つける。自尊心を傷つける行為をする。"
+    },
+    {
+        "id": 183,
+        "idiom": "人目を引く",
+        "en_meaning": "To attract attention. Stand out, and become noticeable.",
+        "zh_meaning": "引人注目，吸引视线",
+        "ja_meaning": "注目を集める。目立つ。"
+    },
+    {
+        "id": 184,
+        "idiom": "高みの見物",
+        "en_meaning": "To observe from a higher position",
+        "zh_meaning": "置身事外，观战高手之间",
+        "ja_meaning": "他人の問題や災難を傍観すること。助けることもしないでただ見ていること。"
+    },
+    {
+        "id": 185,
+        "idiom": "世話を焼く",
+        "en_meaning": "To take care of someone. To do something for someone's sake or well-being.",
+        "zh_meaning": "过多照顾，过多关心",
+        "ja_meaning": "相手の世話を気遣って、心配をかける。"
+    },
+    {
+        "id": 186,
+        "idiom": "峠を越す",
+        "en_meaning": "To overcome a difficult situation or reach a turning point.",
+        "zh_meaning": "渡过难关，克服困难",
+        "ja_meaning": "困難を乗り越える。最も困難な部分をクリアする。"
+    },
+    {
+        "id": 187,
+        "idiom": "耳にする",
+        "en_meaning": "To hear something (usually gossip or rumors).",
+        "zh_meaning": "听到，得知",
+        "ja_meaning": "情報を聞く。噂に聞く。"
+    },
+    {
+        "id": 188,
+        "idiom": "突拍子も無い",
+        "en_meaning": "Utterly absurd or ridiculous",
+        "zh_meaning": "毫无道理，荒唐无稽",
+        "ja_meaning": "非常に驚くべきこと。信じられないこと。"
+    },
+    {
+        "id": 189,
+        "idiom": "破竹の勢い",
+        "en_meaning": "a rapid and unstoppable progress",
+        "zh_meaning": "势如破竹，势不可挡",
+        "ja_meaning": "物事が連続して順調に進展し、止めどなく発展していく様子。"
+    },
+    {
+        "id": 190,
+        "idiom": "角が取れる",
+        "en_meaning": "Someone becomes more considerate, gentle, or tempered. Temper becomes milder.",
+        "zh_meaning": "愿意屈服，退让",
+        "ja_meaning": "頑固な態度や意見が柔らかくなる。譲歩する。"
+    },
+    {
+        "id": 191,
+        "idiom": "車輪の再発明",
+        "en_meaning": "Reinventing the wheel.",
+        "zh_meaning": "重复发明轮子，指重新发明已存在的事物，浪费时间和精力",
+        "ja_meaning": "無駄な努力をすること。既にあるものを再度作ろうとすること。"
+    },
+    {
+        "id": 192,
+        "idiom": "芋を洗うよう",
+        "en_meaning": "To do something unnecessary or pointless",
+        "zh_meaning": "极其容易，非常简单",
+        "ja_meaning": "時間が無駄になる。無駄な努力をする。"
+    },
+    {
+        "id": 193,
+        "idiom": "目を覚ます",
+        "en_meaning": "To wake up, or to become aware or conscious of something.",
+        "zh_meaning": "认清现实，清醒过来",
+        "ja_meaning": "気づく。現実を理解する。"
+    },
+    {
+        "id": 194,
+        "idiom": "腹が減る",
+        "en_meaning": "To feel hungry",
+        "zh_meaning": "饥饿，感到饥饿",
+        "ja_meaning": "食事をしたいという気持ちや空腹感を表す。"
+    },
+    {
+        "id": 195,
+        "idiom": "足が付く",
+        "en_meaning": "To be able to get by, to manage to support oneself financially.",
+        "zh_meaning": "有根据，有依据",
+        "ja_meaning": "理解や解釈がつく。事情や理由がわかる。"
+    },
+    {
+        "id": 196,
+        "idiom": "土壇場",
+        "en_meaning": "\"Last minute\" or \"crunch time\"",
+        "zh_meaning": "紧要关头，关键时刻",
+        "ja_meaning": "締め切り直前や最後の瞬間。"
+    },
+    {
+        "id": 197,
+        "idiom": "手がない",
+        "en_meaning": "Unable to help or contribute. Incapable.",
+        "zh_meaning": "无能力，无办法",
+        "ja_meaning": "助けがない。頼りにならない。"
+    },
+    {
+        "id": 198,
+        "idiom": "傾城",
+        "en_meaning": "A beautiful woman who captivates and enchants everyone.",
+        "zh_meaning": "绝世美人，容貌非凡",
+        "ja_meaning": "美しい女性。"
+    },
+    {
+        "id": 199,
+        "idiom": "とらの子",
+        "en_meaning": "A person who is falsely accused or blamed for something they did not do.",
+        "zh_meaning": "倒霉，不幸",
+        "ja_meaning": "非常に貴重なもの。珍しいもの。"
+    },
+    {
+        "id": 200,
+        "idiom": "右から左",
+        "en_meaning": "Not paying attention; not taking something seriously; not giving much thought",
+        "zh_meaning": "完全无视，不予理会",
+        "ja_meaning": "理解されずに無駄にすること。"
+    },
+    {
+        "id": 201,
+        "idiom": "あぐらをかく",
+        "en_meaning": "To sit cross-legged",
+        "zh_meaning": "坐下来懒散而不活跃，不顾周围环境或他人的困境",
+        "ja_meaning": "くつろいで、何もせずに座る。"
+    },
+    {
+        "id": 202,
+        "idiom": "青天の霹靂",
+        "en_meaning": "A sudden and unexpected disaster or calamity.",
+        "zh_meaning": "闪击，意想不到的打击",
+        "ja_meaning": "突然起こる驚くべき出来事。"
+    },
+    {
+        "id": 203,
+        "idiom": "足元に火が付く",
+        "en_meaning": "Get into trouble. Have a critical situation.",
+        "zh_meaning": "步步生火，危险临近",
+        "ja_meaning": "非常に危険な状況に陥る。"
+    },
+    {
+        "id": 204,
+        "idiom": "一目置く",
+        "en_meaning": "admire or respect someone",
+        "zh_meaning": "敬重，看重",
+        "ja_meaning": "認める。尊敬する。"
+    },
+    {
+        "id": 205,
+        "idiom": "胸を痛める",
+        "en_meaning": "To feel deep sorrow or anguish.",
+        "zh_meaning": "内心痛苦，伤心",
+        "ja_meaning": "心を痛める。悲しむ。"
+    },
+    {
+        "id": 206,
+        "idiom": "ちょうちんを持つ",
+        "en_meaning": "take responsibility, take charge",
+        "zh_meaning": "手拿提灯，引导前进",
+        "ja_meaning": "他の人のために働く。また、世話をする。"
+    },
+    {
+        "id": 207,
+        "idiom": "気が合う",
+        "en_meaning": "Get along well.",
+        "zh_meaning": "相处融洽，合得来",
+        "ja_meaning": "相性が良い。思考や意見が合致する。"
+    },
+    {
+        "id": 208,
+        "idiom": "唇をかむ",
+        "en_meaning": "bite one's lips (in frustration or anxiety)",
+        "zh_meaning": "后悔，懊悔",
+        "ja_meaning": "躊躇や迷いがある。悔やむ。"
+    },
+    {
+        "id": 209,
+        "idiom": "肩を並べる",
+        "en_meaning": "stand shoulder to shoulder. Be on the same level or rank.",
+        "zh_meaning": "平起平坐，地位相等",
+        "ja_meaning": "同等の地位や価値がある。同じような立場や能力を持つ。"
+    },
+    {
+        "id": 210,
+        "idiom": "力になる",
+        "en_meaning": "to be of help or support",
+        "zh_meaning": "成为力量，提供帮助",
+        "ja_meaning": "サポートや助けとして役立つ。"
+    },
+    {
+        "id": 211,
+        "idiom": "くさびを打ちこむ",
+        "en_meaning": "\"To drive a wedge in,\" meaning to create a division or conflict between people or groups.",
+        "zh_meaning": "采取强硬手段以实现目标。也指通过强制措施达到预期效果",
+        "ja_meaning": "意見を押し付ける。他人の考えを抑え込む。"
+    },
+    {
+        "id": 212,
+        "idiom": "筆を入れる",
+        "en_meaning": "To add the finishing touches. To put the final brush strokes in.",
+        "zh_meaning": "操斧",
+        "ja_meaning": "文章を書き始める。創作の始まりを告げる。"
+    },
+    {
+        "id": 213,
+        "idiom": "邪魔",
+        "en_meaning": "An obstacle or hindrance. Something that gets in the way or disrupts.",
+        "zh_meaning": "妨碍，打扰，阻碍",
+        "ja_meaning": "妨げること。他のことをするのを邪魔すること。"
+    },
+    {
+        "id": 214,
+        "idiom": "腹が太い",
+        "en_meaning": "To be extremely full or satisfied, especially with food. Also, to be well-off or prosperous.",
+        "zh_meaning": "贪婪，贪心",
+        "ja_meaning": "欲張りである。貪欲である。"
+    },
+    {
+        "id": 215,
+        "idiom": "三日坊主",
+        "en_meaning": "Someone who starts something but quickly loses interest or gives up.",
+        "zh_meaning": "三天打鱼两天晒网",
+        "ja_meaning": "短期間で物事を続けられない人。"
+    },
+    {
+        "id": 216,
+        "idiom": "縁起でもない",
+        "en_meaning": "It is not auspicious.",
+        "zh_meaning": "不吉利，不祥之兆",
+        "ja_meaning": "良くないことが起こることを示唆する。災いを呼び込むとされる行動や言葉。"
+    },
+    {
+        "id": 217,
+        "idiom": "棚に上げる",
+        "en_meaning": "To ignore or disregard something/someone. Also, to put something/someone off or procrastinate.",
+        "zh_meaning": "置之不理，不予注意",
+        "ja_meaning": "重要視されず無視される。"
+    },
+    {
+        "id": 218,
+        "idiom": "泥を吐く",
+        "en_meaning": "Confess one's wrongdoings or mistakes. Come clean.",
+        "zh_meaning": "交代，改过自新",
+        "ja_meaning": "To confess one's wrongdoing or reveal one's true nature."
+    },
+    {
+        "id": 219,
+        "idiom": "脂が乗る",
+        "en_meaning": "To be in a favorable or prosperous condition. Also, to be in a period of success or good fortune.",
+        "zh_meaning": "事业兴旺，十分成功",
+        "ja_meaning": "成功して利益が得られる。状況が好転する。"
+    },
+    {
+        "id": 220,
+        "idiom": "非の打ち所がない",
+        "en_meaning": "There is nothing to criticize or find fault with.",
+        "zh_meaning": "毫无瑕疵，无可挑剔",
+        "ja_meaning": "完璧であり、欠点や誤りが見つからない。"
+    },
+    {
+        "id": 221,
+        "idiom": "氷山の一角",
+        "en_meaning": "A small part or glimpse of a much larger, hidden or unknown problem or issue.",
+        "zh_meaning": "冰山一角",
+        "ja_meaning": "問題・事態の一部分だけしか見えておらず、実際にはそのほかにも大きな問題・事態が存在していること。また、表面の部分だけではなく、本質的・真の部分を見抜くことが重要であることを表す。"
+    },
+    {
+        "id": 222,
+        "idiom": "熱が冷める",
+        "en_meaning": "lose interest or enthusiasm",
+        "zh_meaning": "热情消退，失去兴趣",
+        "ja_meaning": "興味や情熱がなくなる。また、愛情や熱意が冷える。"
+    },
+    {
+        "id": 223,
+        "idiom": "山海の珍味",
+        "en_meaning": "Exotic or unusual delicacy, something unique or rare.",
+        "zh_meaning": "珍品，稀罕之物",
+        "ja_meaning": "非常に珍しいもの。また、貴重なもの。"
+    },
+    {
+        "id": 224,
+        "idiom": "土が付く",
+        "en_meaning": "To have dirt on one's hands. To be involved in some wrongdoing.",
+        "zh_meaning": "染上土，被指责",
+        "ja_meaning": "汚れや傷、悪いものがつく。評判が悪くなる。"
+    },
+    {
+        "id": 225,
+        "idiom": "手が離れる",
+        "en_meaning": "Let go of something or someone. To become independent or free from the responsibility or control of someone.",
+        "zh_meaning": "自由，不受限制",
+        "ja_meaning": "関わりがなくなる。担当・責任が外れる。"
+    },
+    {
+        "id": 226,
+        "idiom": "色を失う",
+        "en_meaning": "To lose color; to become pale or lose vitality.",
+        "zh_meaning": "失去光彩，失去魅力或优势",
+        "ja_meaning": "興味や魅力を失う。影響力や価値を失う。"
+    },
+    {
+        "id": 227,
+        "idiom": "足が速い",
+        "en_meaning": "To be fast or quick on one's feet",
+        "zh_meaning": "跑得快，速度快",
+        "ja_meaning": "速く走ることができる。"
+    },
+    {
+        "id": 228,
+        "idiom": "机上の空論",
+        "en_meaning": "Idle speculation. Theoretical discussions that lack practicality or are detached from reality.",
+        "zh_meaning": "纸上谈兵，空洞无实",
+        "ja_meaning": "理論や計画が現実的でなく、実現不可能なもの。あくまで理論上の考えだけで、実務や現実の問題には通用しないこと。"
+    },
+    {
+        "id": 229,
+        "idiom": "石橋を叩いて渡る",
+        "en_meaning": "To be excessively cautious and take unnecessary measures.",
+        "zh_meaning": "做事前考虑到万一出问题，就可以轻松应对。",
+        "ja_meaning": "無用な心配や用心をする。"
+    },
+    {
+        "id": 230,
+        "idiom": "宙に浮く",
+        "en_meaning": "be in a state of confusion or uncertainty",
+        "zh_meaning": "失去了支撑，无依无靠",
+        "ja_meaning": "何の土台もなく、支えられない状態になる。現実に縛られず、現実感がないことを示す。"
+    },
+    {
+        "id": 231,
+        "idiom": "当てにならない",
+        "en_meaning": "Not reliable. Cannot be relied upon.",
+        "zh_meaning": "靠不住，不可信任",
+        "ja_meaning": "信頼できない。頼りにならない。"
+    },
+    {
+        "id": 232,
+        "idiom": "猫の額",
+        "en_meaning": "A tiny space or small area.",
+        "zh_meaning": "微不足道，非常小",
+        "ja_meaning": "とても狭い場所や少ない程度のこと。"
+    },
+    {
+        "id": 233,
+        "idiom": "胸を打つ",
+        "en_meaning": "Something deeply moves or touches someone emotionally.",
+        "zh_meaning": "深深打动，引起强烈的共鸣",
+        "ja_meaning": "信頼できない。頼りにならない。"
+    },
+    {
+        "id": 234,
+        "idiom": "手を広げる",
+        "en_meaning": "To take on many responsibilities or tasks.",
+        "zh_meaning": "扩大经营范围，多方面投资",
+        "ja_meaning": "範囲を広げる。規模を大きくする。"
+    },
+    {
+        "id": 235,
+        "idiom": "情けは人の為ならず",
+        "en_meaning": "Compassion is not always beneficial to others. Sometimes, being too kind or lenient can have negative consequences.",
+        "zh_meaning": "情义不仅为了自己，更多是为了他人",
+        "ja_meaning": "人に対して情けをかけることは、結果的には自分自身の利益になる。"
+    },
+    {
+        "id": 236,
+        "idiom": "胸が膨らむ",
+        "en_meaning": "Feel proud or have a sense of accomplishment",
+        "zh_meaning": "自豪，得意",
+        "ja_meaning": "自信や誇りを感じる。うれしさや興奮を感じる。"
+    },
+    {
+        "id": 237,
+        "idiom": "耳に入れる",
+        "en_meaning": "To listen carefully and take something to heart",
+        "zh_meaning": "听进去，牢记在心",
+        "ja_meaning": "忠告や教えを受け入れる。"
+    },
+    {
+        "id": 238,
+        "idiom": "比べ物にならない",
+        "en_meaning": "Not even comparable. Can't compare.",
+        "zh_meaning": "无法相比，不可比拟",
+        "ja_meaning": "類似するものがない。比べることができないほど優れている。"
+    },
+    {
+        "id": 239,
+        "idiom": "人目に付く",
+        "en_meaning": "to attract attention, to be noticed",
+        "zh_meaning": "引人注目，显眼",
+        "ja_meaning": "他人の注目を集める。目立つ。"
+    },
+    {
+        "id": 240,
+        "idiom": "手が出ない",
+        "en_meaning": "Beyond one's reach or ability. Cannot afford or attain",
+        "zh_meaning": "买不起，无法承担",
+        "ja_meaning": "手に負えない。扱いが難しい。"
+    },
+    {
+        "id": 241,
+        "idiom": "胸が痛む",
+        "en_meaning": "Heartbreaking. Feeling an intense emotional pain or sadness.",
+        "zh_meaning": "心痛，感到内心痛苦",
+        "ja_meaning": "悲しみや苦しみを感じる。心が痛む。"
+    },
+    {
+        "id": 242,
+        "idiom": "歯を食い縛る",
+        "en_meaning": "To grit one's teeth and endure a difficult or frustrating situation.",
+        "zh_meaning": "咬紧牙关，忍受痛苦或困难",
+        "ja_meaning": "我慢する。苦しい思いをする。"
+    },
+    {
+        "id": 243,
+        "idiom": "訳は無い",
+        "en_meaning": "There is no excuse.",
+        "zh_meaning": "没有理由，没有道理",
+        "ja_meaning": "理由がない。説明がつかない。"
+    },
+    {
+        "id": 244,
+        "idiom": "火花を散らす",
+        "en_meaning": "To create sparks. To generate excitement or conflict.",
+        "zh_meaning": "擦出火花，产生冲突或争论",
+        "ja_meaning": "激しい議論や論争が起こる。"
+    },
+    {
+        "id": 245,
+        "idiom": "身から出た錆",
+        "en_meaning": "You reap what you sow. The negative consequences or hardships that one experience are a result of one's own actions or choices.",
+        "zh_meaning": "自作自受，自找的麻烦",
+        "ja_meaning": "自分の行いや過去の経験が原因で生じた悪い結果、または困難。"
+    },
+    {
+        "id": 246,
+        "idiom": "止むを得ない",
+        "en_meaning": "No choice but to accept; inevitable.",
+        "zh_meaning": "无法避免，势在必行",
+        "ja_meaning": "避けられない。やむを得ない。"
+    },
+    {
+        "id": 247,
+        "idiom": "首が回らない",
+        "en_meaning": "Lack of flexibility. Unable to adapt or react quickly.",
+        "zh_meaning": "困扰，无法自拔",
+        "ja_meaning": "物事を効率的に進めることができず、うまく対応できない。"
+    },
+    {
+        "id": 248,
+        "idiom": "幕を閉じる",
+        "en_meaning": "To bring something to a close or an end.",
+        "zh_meaning": "结束，终结",
+        "ja_meaning": "終わりにする。終わりになる。"
+    },
+    {
+        "id": 249,
+        "idiom": "飼い犬に手をかまれる",
+        "en_meaning": "To be hurt or betrayed by someone you trust",
+        "zh_meaning": "受到亲近的人伤害，得到背叛",
+        "ja_meaning": "恩を仇で返される。"
+    },
+    {
+        "id": 250,
+        "idiom": "油を絞る",
+        "en_meaning": "To squeeze out all the benefits or resources. To maximize or extract the most from something.",
+        "zh_meaning": "节约，吝啬",
+        "ja_meaning": "無理やり金品を巻き上げる。"
+    },
+    {
+        "id": 251,
+        "idiom": "赤の他人",
+        "en_meaning": "\"Complete stranger\" or \"unrelated person\"",
+        "zh_meaning": "完全陌生的人，毫无关系的人",
+        "ja_meaning": "自分とは全く無関係な他人。他人同士の関係。"
+    },
+    {
+        "id": 252,
+        "idiom": "脈が有る",
+        "en_meaning": "To have potential or prospects.",
+        "zh_meaning": "很有希望，前景光明",
+        "ja_meaning": "希望がある。成功の可能性がある。"
+    },
+    {
+        "id": 253,
+        "idiom": "無我夢中",
+        "en_meaning": "Deeply engrossed. Completely absorbed in something.",
+        "zh_meaning": "全神贯注，沉迷其中",
+        "ja_meaning": "熱中しすぎて自分の存在を忘れる状態。また、物事に没頭して心を奪われること。"
+    },
+    {
+        "id": 254,
+        "idiom": "胸を撫で下ろす",
+        "en_meaning": "To feel relieved or gratified after a tense or worrisome situation.",
+        "zh_meaning": "松了一口气，宽慰",
+        "ja_meaning": "安堵する。心の中で安心する。"
+    },
+    {
+        "id": 255,
+        "idiom": "くちばしが黄色い",
+        "en_meaning": "Be greedy or covetous. Have a yellow beak.",
+        "zh_meaning": "见风使舵，投机取巧",
+        "ja_meaning": "利己的な性格や欲の強さを指す。"
+    },
+    {
+        "id": 256,
+        "idiom": "くちばしを入れる",
+        "en_meaning": "To criticize or interfere in someone else's business.",
+        "zh_meaning": "指责，责备",
+        "ja_meaning": "他人の中に首を突っ込むこと。また、他人のことに言及すること。"
+    },
+    {
+        "id": 257,
+        "idiom": "頬が落ちる",
+        "en_meaning": "Feel embarrassed or humiliated. Lose face.",
+        "zh_meaning": "感到尴尬或尴尬",
+        "ja_meaning": "驚愕や悲嘆などで顔面の筋肉が緩む様子を表す。"
+    },
+    {
+        "id": 258,
+        "idiom": "腕が上がる",
+        "en_meaning": "skill improves",
+        "zh_meaning": "技术或才能得到提升，变得更加娴熟",
+        "ja_meaning": "技術や能力が向上する。腕前が上達する。"
+    },
+    {
+        "id": 259,
+        "idiom": "事によると",
+        "en_meaning": "Depending on the situation. Depending on the circumstances.",
+        "zh_meaning": "根据情况，视情况而定",
+        "ja_meaning": "その場合によって。それによって。"
+    },
+    {
+        "id": 260,
+        "idiom": "血が通う",
+        "en_meaning": "To have vitality or a sense of liveliness. To have passion or excitement.",
+        "zh_meaning": "变得活跃、有生气，血液充盈。也用来形容人与人之间关系有效、传达顺畅。",
+        "ja_meaning": "活気がある。元気が出る。"
+    },
+    {
+        "id": 261,
+        "idiom": "指をくわえる",
+        "en_meaning": "to sit idly by, do nothing, or hold one's breath",
+        "zh_meaning": "无能为力，无法阻止",
+        "ja_meaning": "何もできないで見ている。何の手も打てないでいる。"
+    },
+    {
+        "id": 262,
+        "idiom": "手を掛ける",
+        "en_meaning": "To work on something diligently and put in effort to complete it.",
+        "zh_meaning": "着手，开始做",
+        "ja_meaning": "時間や労力をかける。真剣に取り組む。"
+    },
+    {
+        "id": 263,
+        "idiom": "最善を尽くす",
+        "en_meaning": "To give one's best effort.",
+        "zh_meaning": "竭尽全力，尽力而为",
+        "ja_meaning": "最も良い方法を使って全力を尽くす。"
+    },
+    {
+        "id": 264,
+        "idiom": "花を持たせる",
+        "en_meaning": "give someone trouble or burden; to make someone do all the work or take responsibility for something.",
+        "zh_meaning": "授人以柄，给人留面子",
+        "ja_meaning": "相手の名誉や地位を高めるために手助けする。また、恩恵を受けさせること。"
+    },
+    {
+        "id": 265,
+        "idiom": "猫も杓子も",
+        "en_meaning": "Every single person or thing, without exception.",
+        "zh_meaning": "所有人或事物全部都是一样的，没有例外",
+        "ja_meaning": "すべてのものや人々を指して、何も例外なく全てを意味する。"
+    },
+    {
+        "id": 266,
+        "idiom": "一か八か",
+        "en_meaning": "Take a risk. 50-50 chance.",
+        "zh_meaning": "冒险，赌一把",
+        "ja_meaning": "リスクを冒すこと。危険を冒すこと。"
+    },
+    {
+        "id": 267,
+        "idiom": "手が上がる",
+        "en_meaning": "Feel relieved or successful, satisfied with the outcome.",
+        "zh_meaning": "做得很好，令人称赞",
+        "ja_meaning": "技術や能力が向上する。実力が上がる。"
+    },
+    {
+        "id": 268,
+        "idiom": "芽が出る",
+        "en_meaning": "To make progress or develop. To show signs of growth or improvement.",
+        "zh_meaning": "开始显示出活力或进展，事物开始发展或取得进展",
+        "ja_meaning": "新たな可能性が現れる。成長が始まる。"
+    },
+    {
+        "id": 269,
+        "idiom": "メスを入れる",
+        "en_meaning": "To make a decisive and critical action. Often used when making a difficult or controversial decision.",
+        "zh_meaning": "做出艰难的决定，割舍，采取果断行动",
+        "ja_meaning": "問題や難局に決着をつける。"
+    },
+    {
+        "id": 270,
+        "idiom": "勝利を収める",
+        "en_meaning": "achieve victory",
+        "zh_meaning": "取得胜利，获得成功",
+        "ja_meaning": "成功を得る。競争や戦いで勝つ。"
+    }
+]
